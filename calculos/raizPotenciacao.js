@@ -7,6 +7,6 @@ function raiz () {
 raiz()
 
 function potencia () {
-    console.log("A base " + A + " elevado a " + B + " potência é igual a: " + (A ** B))
+    console.log("O número " + A + " elevado a " + B + "º potência é igual a: " + (A ** B))
 }
 potencia()
